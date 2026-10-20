@@ -71,4 +71,7 @@ A comparison of two current data science job postings, used to map what the fiel
 
 ## What Stood Out
 
-The early-career posting listed only a degree and one year of experience as requirements, but its job description expected database work, model deployment, and AI testing, so the real bar was in the description. I did not expect a finance-focused senior role to ask for responsible AI and bias mitigation, which suggests these are becoming baseline expectations for data scientists rather than a specialty. The strongest overlap, SQL, Python, data wrangling, and data modeling, is the same foundation in both roles regardless of seniority.
+The early-career posting listed only a degree and one year of experience as requirements, but its job description expected database work, model deployment, 
+and AI testing, so the real bar was in the description. I did not expect a finance-focused senior role to ask for responsible AI and bias mitigation, 
+which suggests these are becoming baseline expectations for data scientists rather than a specialty. The strongest overlap, SQL, Python, data wrangling, and data modeling,
+is the same foundation in both roles regardless of seniority.
