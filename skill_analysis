@@ -1,0 +1,74 @@
+# Data Science Job Posting Skills Analysis
+
+A comparison of two current data science job postings, used to map what the field is asking for and where my background fits.
+
+## Posting 1: AI Engineer / Data Scientist, AI
+
+- **Industry:** Professional services / consulting (assurance practice)
+- **Seniority:** Early career (Associate, 1+ year of experience)
+
+### Required
+- Bachelor's degree
+- 1+ year of experience
+
+### Preferred
+- Degree in Analytics/Data Science, AI/Robotics, Computer Science/Information Systems, or Engineering
+- Python and other programming languages for AI solutions
+- Complex data analysis and pattern recognition
+- Teamwork and collaboration in fast-paced environments
+- Testing, debugging, and documenting AI-enabled systems
+- Evaluating failure modes, bias, drift, hallucinations, explainability, and guardrails
+- Measuring and communicating outcomes with defined metrics
+- Translating technical findings for clients and non-technical stakeholders
+
+### Hidden skills (from the job description)
+- Machine learning model development and deployment
+- AI system design and software implementation
+- Integrating AI solutions into existing data infrastructure
+- Data wrangling, preprocessing, and data modeling
+- Building and maintaining relational databases (SQL)
+- Evaluating technical controls and evidence
+- Building automated tests, reference datasets, and monitoring tools
+- Client engagement, handling ambiguity, and continuous learning
+
+## Posting 2: Data Scientist, Infrastructure Finance
+
+- **Industry:** Large technology company (finance organization)
+- **Seniority:** Senior individual contributor (10+ years of experience)
+
+### Required
+- Bachelor's degree in a quantitative field (Engineering, Math, Science) or equivalent experience
+- 10+ years applying analysis, data science, statistics, economics, or operations research to business decisions
+- Data science applied to operational planning, resource allocation, or efficiency decisions
+- Carrying ambiguous work from problem definition to measurable outcome
+- Scenario and sensitivity models built into decision tools, including spreadsheets
+- SQL and Python for analyzing large, messy datasets and building reusable models
+- Communicating quantitative recommendations to executives and influencing across organizations
+
+### Preferred
+- Integrating AI tools to optimize and redesign workflows
+- Responsible and ethical AI practices (risk assessment, bias mitigation, accuracy reviews)
+- Ongoing AI skill development (prompt/context engineering, agent orchestration)
+- ROI, marginal cost, cost-to-serve, and capital-allocation analysis
+- Validation, reproducibility, and sensitive-data handling in AI-assisted analysis
+- Forecasting, scenario modeling, uncertainty quantification, causal inference, and econometrics
+- Infrastructure planning, capacity engineering, and cloud/compute economics
+- AI infrastructure economics (training and inference costs, GPUs/CPUs, power)
+- Data center, semiconductor, cloud, networking, and software architecture concepts
+
+## Skills in Both Postings
+
+- Bachelor's degree in a quantitative or technical field
+- Python
+- SQL and relational data
+- Wrangling large, messy datasets
+- Building reusable data models and tools
+- Defining and measuring metrics
+- Responsible AI and bias mitigation
+- Validation and documentation of analytical work
+- Communicating technical findings to non-technical stakeholders
+- Cross-functional collaboration and working through ambiguity
+
+## What Stood Out
+
+The early-career posting listed only a degree and one year of experience as requirements, but its job description expected database work, model deployment, and AI testing, so the real bar was in the description. I did not expect a finance-focused senior role to ask for responsible AI and bias mitigation, which suggests these are becoming baseline expectations for data scientists rather than a specialty. The strongest overlap, SQL, Python, data wrangling, and data modeling, is the same foundation in both roles regardless of seniority.
